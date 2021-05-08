@@ -21,8 +21,7 @@
 -----
 
 ## 📫 Contact Information
-<a href="https://www.youtube.com/chars"><img src="https://cdn2.iconfinder.com/data/icons/social-media-icon-set-6/94/youtube-256.png" width="40"></a>|<a href="https://discord.gg/logo"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>|
-|--|--|--|--|--|
+<a href="https://www.youtube.com/chars"><img src="https://cdn2.iconfinder.com/data/icons/social-media-icon-set-6/94/youtube-256.png" width="40"></a>|<a href="https://discord.gg/logo"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
 
 -----
 
